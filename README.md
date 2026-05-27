@@ -72,6 +72,8 @@ To use Monocraft on your website, add the following code to your CSS:
 }
 ```
 
+Note that you will have to add each weight as an individual import as most browsers don't support the bundled `.ttc` font file.
+
 ## How to use
 
 After following the installation instructions up above, simply select the "Monocraft" font (note the space) in any application that supports custom fonts. You might need to restart the application or your computer for the font to appear.
